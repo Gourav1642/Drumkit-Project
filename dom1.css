@@ -1,0 +1,49 @@
+body{
+  background-color:lightblue;
+
+}
+h1{
+  color:black;
+  font-size: 10rem;
+
+
+}
+footer{
+  color:red;
+}
+.w {
+  background-color: yellow;
+
+
+
+}
+.a {
+  background-color: lightpink;
+
+}
+.s {
+  background-color: lightgreen;
+
+}
+.d {
+  background-color: lightblue;
+}
+.j {
+  background-color: white;
+}
+.k{
+  background-color: indigo;
+}
+.l{
+  background-color: orange;
+}
+
+.pressed{
+
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.drum{
+  font-size: 5rem;
+}
